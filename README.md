@@ -4,7 +4,7 @@ Open source enthusiast, privacy advocate and Linux user.
 
 Currently learning Rust. 🦀
 
-I am experienced with:
+I'm experienced with:
 - Java
 - C#
 
