@@ -1,16 +1,16 @@
-### Hi there 👋
+Student from Switzerland 🇨🇭 
 
-<!--
-**ricoriedel/ricoriedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open source enthusiast, privacy advocate and Linux user.
 
-Here are some ideas to get you started:
+Currently learning Rust. 🦀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am experienced with:
+- Java
+- C#
+
+I have worked with:
+- C++
+- Python
+- JavaScript
+
+_No_, you aren't a programer if you write websites or electron "apps".
