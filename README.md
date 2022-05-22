@@ -13,6 +13,6 @@ I have worked with:
 - Python
 - JavaScript
 
-GPG key: `C6BC439C0B32DFBE1CB809006B4087D7F5F4F83B`
+[PGP key](publickey.txt)
 
 _No_, you aren't a programer if you write websites or electron "apps".
