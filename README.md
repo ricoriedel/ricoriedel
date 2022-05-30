@@ -13,6 +13,6 @@ I have worked with:
 - Python
 - JavaScript
 
-[PGP key](publickey.txt)
-
 _No_, you aren't a programer if you write websites or electron "apps".
+
+[PGP key](publickey.asc)
